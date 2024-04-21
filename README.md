@@ -1,2 +1,2 @@
-google-homepage
 # google-homepage
+Simple HTML & CSS project building Google's homepage
